@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Twitch_logo.svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
